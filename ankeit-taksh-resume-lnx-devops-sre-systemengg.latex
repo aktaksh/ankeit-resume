@@ -1,0 +1,133 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{tabularx,}
+
+\title{Ankeit Taksh}
+\date{}
+\begin{document}
+
+\maketitle 
+
+\textbf{Email:} ankeit.taksh@gmail.com  \textbf{Phone:} +65-81148011 \textbf{LinkedIn:} \href{https://www.linkedin.com/in/ankeittaksh}{LinkedIn} \textbf{GitHub:} \href{https://github.com/aktaksh}{Github}
+
+\section*{Summary:}
+A Linux Engineer with 14+ years of experience in the DevOps and SRE field. My work revolves around on-prem, cloud, and hybrid infrastructure with new projects and their operations. It includes hardware, low-latency high-performance systems, networking, documentation, and info-sec aspects. 
+
+\section*{Education:}
+ \textbf{National University of Singapore} {& M.Tech  2019 - 2021} \\
+ \textbf{Dr MGR University} & B.Tech 2004 - 2008 
+ 
+\section*{Certifications:}
+{Redhat Certified Engineer} \hfill {Azure DevOps Expert } \\
+{ Certified Kubernetes Administrator (CKA)} \hfill {Redhat OpenShift Specialist}
+
+\section*{Professional experience:}
+\subsection*{Senior DevOps Engineer \hfill {Telepathy Labs.AI, Singapore, Oct 2021 - current}} 
+\textbf {TechStack:} {Linux, Kubernetes, AWS, Bash, Terraform, Jenkins, TeamCity, ArgoCD, RDS, EKS, ECS Route53, S3, DataDog, Grafana, SOC, VPC, HELM} 
+\begin{itemize}[leftmargin=*]
+ \item Escalation Lead for operational incidents and responsible for the implementation of new projects.
+ \item Tune in Linux distros and ensure SOC compliance and hardening is met.
+ \item Ensure High availability design and Disaster recovery is in place while ensuring the least downtime.
+ \item Key Projects:
+  \begin{itemize}[label=--, leftmargin=*]
+    \item Project Stella Automotive: Host ML-based solution on AWS using EKS, ECS and other AWS resources
+    \item Migrate CI/CD pipelines: Setup entire project via HELM and Argocd
+  \end{itemize}
+\end{itemize}
+
+
+\subsection*{Senior DevOps Engineer \hfill Biqmind, Singapore, Oct 2019 - Oct-2021}
+  \textbf{Techstack:} Ubuntu, Centos, RHEL, Azure, AWS, Digital Ocean, Ansible, HELM, GOCD, GITOPS, Linux, OpenShift, OKD, Kubernetes, Docker, Prometheus, Grafana, Dell Rack, Dell Storage, Shell script, Python, KVM, AIML
+\begin{itemize}[leftmargin=*]
+\item Lead and mentor a closely knit team of DevOps and SRE professionals, implementing new DevOps and SRE solutions to shape client experience.
+  \item Develop, support, and administer business-critical infrastructure, blending engineering and operational responsibilities.
+  \item Active trainer for Microsoft Azure Kubernetes and OpenShift, as well as content creator of workshops. Innovate integrated solutions for client applications and train resources.
+  \item Key Projects:
+  \begin{itemize}[label=--, leftmargin=*]
+    \item Project for Rapiscan: Migrated ML solution from monolithic to Kubernetes-based microservices across multiple airports.
+    \item OpenShift and datacentre migration: Moved Biqmind from Jakarta to Singapore with storage and network hardware.
+    \item CI/CD pipelines: Enhanced productivity by 2 hours per developer per day for LanternEdge Dev and HW team.
+    \item In-house Virtualization platform: Designed using Ovirt and Redhat Enterprise Virtualization.
+  \end{itemize}
+
+\end{itemize}
+
+\subsection*{Technical Lead \hfill  SGX, Singapore (Contract) | Mar 2016 - Jul 2019}
+  \textbf{Techstack:} RHEL, AWS, Ansible, Linux, OpenShift, Kubernetes, Docker, Grafana, HP servers, Dell Rack, Storage, Shell script, Python, Veritas, HP tools, Atlassian
+\begin{itemize}[leftmargin=*]
+  \item Delivered architectural and practical cloud and infra solutions to improve CI/CD, resiliency, efficiency, performance, and cost-saving.
+  \item Monitored and reported on service level objectives to stakeholders, working with business and product owners for project design.
+  \item Capacity planning and management, creating and maintaining a capacity model for on-prem and AWS hosting based on user flow profiles.
+  \item Led engineering projects for DevOps, SRE, and DC infrastructure, including release systems, CI/CD workflows, and datacentre infrastructure.
+  \item Mentored SRE teams for production control, delivered projects from a technical perspective to go-live, and implemented automated provisioning and configuration management.
+  \item Key Projects:
+  \begin{itemize}[label=--, leftmargin=*]
+    \item SGX-TITAN: Led a derivatives trading project, building an ultra low latency, high-resiliency infrastructure.
+    \item SGX-OpenShift: Setup a 27-node multi-cluster for critical applications involving DevOps, Jenkins, Kubernetes, Docker, Ansible, OCP.
+    \item SGX Clearing Engine: Implemented a high-resiliency, application HA solution with 20 nodes using Veritas clusters.
+  \end{itemize}
+\end{itemize}
+
+\subsection*{Technical Lead \hfill  Maybank, Singapore (Contract) | Jul 2019 - Nov 2019}
+\begin{itemize}[leftmargin=*]
+  \item Accountable for in-house platform engineering, delivering scalable and disaster-resilient solutions.
+  \item Analyzed new solutions for infrastructure upgrades, developed architectural and implementation plans, primarily based on Redhat recipes.
+  \item Key Points:
+  \begin{itemize}[label=--, leftmargin=*]
+    \item Led adoption of Cyber Security aligned with CI/CD practices.
+    \item Provided Kubernetes microservices infrastructure integrated with Cloud.
+    \item Participated in system design, capacity planning, and platform management.
+    \item Ensured Security and compliance for bank’s trading platform.
+    \item Set up Redhat satellite for patching standards.
+  \end{itemize}
+\end{itemize}
+
+
+\subsection*{System Engineer \hfill  ANTlabs, Singapore | Jun 2015 - Feb 2016}
+\begin{itemize}[leftmargin=*]
+  \item Collaborated with a team of networking experts to build Networking gateways from bare metal.
+  \item Maintained standard build practices and performed kernel and network-based systems tuning.
+  \item Interfaced with project sponsoring groups to gather requirements and managed implementation and post-implementation project support.
+  \item Monitored, evaluated, and resolved hardware and/or software-related performance issues.
+  \item Utilized standard tools for provisioning, configuration management, and automation based on shell scripting.
+  \item Key Project:
+  \begin{itemize}[label=--, leftmargin=*]
+    \item Lead implementation engineer for Etisalat WIFI project, covering Abu Dhabi and Dubai regions, serving users with Wifi offloading solution across 1000+ wifi points. Implemented high availability solution for seamless internet connection.
+  \end{itemize}
+  \item Environment: Linux, Dell, HP servers, Networking Gateways, VLANs, Advanced Networking, Huawei Storage, Shell script, PHP, SQL
+\end{itemize}
+
+
+\subsection*{Tech Support Engineer       \hfill    Altisource, India | Dec2 013 - Jan 2015}
+\begin{itemize}[leftmargin=*]
+  \item As a LINUX admin Provided day-to-day support for production Infrastructure and Applications.
+  \item Proactively supported all applications, including database maintenance, logging, and monitoring.
+  \item Documented, installed, and tested patches, ensured compliance with Group and ISO standards for applications and Infrastructure.
+  \item Proactively identified and proposed infrastructure and applications improvements.
+  \item Developed and maintained a knowledge base and documentation for security and support of Infrastructure and applications.
+\end{itemize}
+
+\subsection*{Sr Tech Executive \hfill   NTTDATA, India | Jul 2013 - Nov 2013}
+\begin{itemize}
+    \item As a LINUX admin responsible for handling escalated incidents and High Availability environment incident management on UNIX Platform [LINUX, Solaris].
+    \item Problem Management on UNIX platform. Perform Root Cause Analysis using quality tools.
+    \item Change and incident management for application support.
+\end{itemize}
+
+\subsection*{Senior Analyst \hfill HCL, India | Dec 2009 - Jun 2013}
+\begin{itemize}
+    \item Responsible for handling escalated incidents and High Availability environment incident management on UNIX Platform [HPUX, LINUX, Solaris].
+    \item Problem Management on UNIX platform. Perform Root Cause Analysis.
+    \item Change Management: Prepare Implementation, backout, and test plan for Change records.
+    \item Perform risk and impact analysis for changes.
+\end{itemize}
+
+\subsection*{Tech Support Executive \hfill Sutherland, India | Sep 2008 - Dec 2009}
+\begin{itemize}
+    \item Engineer responsible for handling user issues for Microsoft Windows Vista and Dual OS Linux users.
+    \item Resolve desktop and network support of all kinds for users.
+    \item Handle Calls and voice support for multiple users for Vista patching Issue.
+\end{itemize}
+\end{document}
